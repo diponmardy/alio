@@ -1,0 +1,29 @@
+h1{ 
+    color: #1f1c1c;
+    font-size: 25 px;
+    font-style: oblique;
+}
+label{ 
+    background-color: white;
+    font-size: 25 px;
+    font-style: unset;
+}
+body{ 
+    color: rgb(204, 70, 17);
+    font-size: 25 px;
+}
+a{
+    text-decoration: none;
+}
+*{background-color: blanchedalmond;}
+.btn{
+    background-color: beige;
+    width: 200px;
+}
+.btn:hover{
+    background-color: blueviolet;
+    width: 180px;
+}
+input:: :placeholder{
+    color: aqua;
+}
